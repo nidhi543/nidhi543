@@ -1,17 +1,36 @@
 ### Hello Everyone, Welcome to my Github Profile 👋
 ---
+![My_Profile](https://user-images.githubusercontent.com/85338414/168279276-d11f82f8-8140-45a3-a96a-6a684b4cb4b8.png)
 
-<!--
-**nidhi543/nidhi543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Coding + music = ❤
+```
+### About Me 👩:
+---
+- 🔭 Hey! I am a second year student pursuing Bachelor of Computer Science.
+- 🌱 Learning new things everyday.
+- 💖 I’m in love with JavaScript.
+- 🌍 I love to work for the betterment of the community.
+- ⚡ Fun fact: I don't like Coffee.
 
-Here are some ideas to get you started:
+My Resume: [Click Here](https://drive.google.com/file/d/12Wj8ci7e6igI-UMrYduDG--urPuEtQo7/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Know 
+---
+- Programming Languages
+     - JavaScript
+     - C/C++
+     - Just started Java
+- Frameworks and Tools
+     - React
+     - Redux
+     - Expressjs
+     - Nodejs
+     - Git/Github
+ - Others
+      - HTML5
+      - CSS3
+      - JWT
+      - jQuery
+      - Bootstrap
+      - REST APIs  
