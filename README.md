@@ -5,9 +5,9 @@
 <h3> Here's some fun facts about me: </h3>
 
 -  **I'm a hopeful web developer👩🏻‍💻**
--  **I'm a third year undergraduate computer science student**
+-  **I'm currently postgraduate student pursuing computer science**
 -  **I'd love to get into a career in programming 👩🏻‍⚕️**
--  *****LOVE*** playing basketball!**
+
 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
